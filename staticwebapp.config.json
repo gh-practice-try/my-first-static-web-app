@@ -13,7 +13,7 @@
         "trace",
         "patch"
       ],
-      "rewrite": "http://20.249.201.108:8090/api/*"
+      "rewrite": "http://20.249.201.108/api/*"
     }
   ]
 }
